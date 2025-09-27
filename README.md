@@ -1,5 +1,4 @@
 # 🚀 Projeto web services com Spring Boot e JPA / Hibernate 
-<br>
 Este projeto foi desenvolvido como parte de um curso de **Java com Spring Boot**, com o objetivo de praticar a construção de uma aplicação RESTful utilizando **Spring Boot**, **JPA/Hibernate** e **H2 Database**.  
 
 O sistema implementa um modelo de domínio com entidades relacionadas (Usuário, Pedido, Produto, Categoria, Pagamento, etc.), permitindo operações básicas de **CRUD** e tratamento de exceções.  
